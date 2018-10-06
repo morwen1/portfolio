@@ -1,0 +1,7 @@
+Django==2.1
+django-autoslug-iplweb==1.9.4
+django-dash==0.5.5
+django-nine==0.1.13
+django-tinymce==2.7.0
+psycopg2==2.7.5
+psycopg2-binary==2.7.5
